@@ -20,6 +20,6 @@ function divide(){
     document.getElementById ("result").textContent = num1 / num2;
 }
 
-
+//calculator function   to calculate            
 
 
